@@ -2,6 +2,10 @@
 
 I am very pleased to publish my Master's thesis work, which will help analysts identify the visualization type for their analysis work.
 
+## Visualization Flow chart
+(https://github.com/VizGuide/Vizualization-Guide/blob/main/Graphs_list.xlsx)
+(https://github.com/VizGuide/Vizualization-Guide/blob/main/Data%20Visualization%20Flowchart.pdf)
+
 ## Visualization Guide
 
 ![Slide 1](https://raw.githubusercontent.com/VizGuide/Vizualization-Guide/main/01_Slide1.JPG)
